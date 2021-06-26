@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/bean/Operator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/bean/Page.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/bean/SearchProperty.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/dao/AdminDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/dao/BaseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/dao/BuildingDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/dao/DormitoryDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/dao/LiveDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/dao/StudentDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/entity/Admin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/entity/Building.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/entity/Dormitory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/entity/DormitoryManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/entity/Live.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/entity/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/filter/LoginFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/AdminServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/BuildingServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/CpachaServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/DormitoryManagerServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/DormitoryServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/LiveServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/servlet/StudentServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/util/CpachaUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/util/DbUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DormitoryManagerWeb/src/com/ischoolbar/programmer/util/StringUtil.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
